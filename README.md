@@ -6,7 +6,8 @@ Exploraremos los Datos de un catálogo de ventas de autos usados, donde procesar
 
 
 ## Herramientas usadas
-Todo el procesamiento y el estudio de datos fueron realizados con Python y las librerías Pandas, Numpy, Seaborn, y Matplotlib 
+Todo el procesamiento y el estudio de datos fueron realizados con Python y las librerías Pandas, Numpy, Seaborn, y Matplotlib.
+
 Usamos el Notebook DeepNote como ambiente
 
 Dataset: https://www.kaggle.com/lepchenkov/usedcarscatalog
