@@ -12,7 +12,7 @@ Usamos el Notebook DeepNote como ambiente
 
 Dataset: https://www.kaggle.com/lepchenkov/usedcarscatalog
 
-Link del DeepNote: https://deepnote.com/project/EDACars-tLSsgG6yQNqpFzRbgtwBOw/%2FProjects%2FChallengeCars.ipynb/#00029-9ff68b96-0bcd-4d9a-a5d2-a2a79184be6c
+Link del DeepNote: https://deepnote.com/project/EDACars-tLSsgG6yQNqpFzRbgtwBOw/%2FEDA_UsedCars%2FChallengeCars.ipynb
 
 ## Conclusión
 Tomamos conceptos básicos de la estadística descriptiva para optimizar nuestros datos y obtener un mejor rendimiento a la hora de darles uso.
